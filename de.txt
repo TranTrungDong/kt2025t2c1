@@ -5,5 +5,6 @@ Câu 2.
 - Hãy tạo thêm 3 nhánh: mã số sv của bạn, 1 nhánh MSSV_cpp và MSSV_sh.
 - Trong nhánh MSSV_cpp chứa chương trình kiểm tra 1 số nguyên nhập vào có phải là bội số của 3 không viết bằng C++.
 - Trong nhánh MSSV_sh chứa chương trình kiểm tra 1 số nguyên nhập vào có phải là bội số của 3 không Shell Script.
+- Hãy mở file world trong câu 1 trong nhánh Mã số SV củ bạn để hướng dẫn chạy 2 file trên. 
 Câu 3.
 - Trộn 2 nhánh MSSV_cpp và MSSV_sh vào nhánh MSSV của bạn
