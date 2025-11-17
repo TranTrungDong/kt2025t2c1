@@ -9,7 +9,7 @@ checkBoiCua3() {
 		echo "$n khong la boi so cua 3"
 	fi
 }
-
+echo " Nhap vao n: "
 read n
 
 checkBoiCua3 30
